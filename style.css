@@ -284,6 +284,11 @@ ul li {
   display: flex;
   flex-direction: column;
 }
+.enlace form input.bnt-2 {
+  /* Ajusta el tamaño del campo de entrada de texto */
+  height:40px;
+  width: 200px;
+}
 
 .btn-2 {
   padding: 10px 25px;
